@@ -7,3 +7,6 @@
 [submodule "services/raptor-order-service"]
 	path = services/raptor-order-service
 	url = https://github.com/STO-KubSU/raptor-order-service
+[submodule "raptor-proto"]
+	path = raptor-proto
+	url = https://github.com/STO-KubSU/raptor-proto
