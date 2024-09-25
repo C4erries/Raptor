@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Tue Sep 24 22:46:45 2024
+# Make data base, printed on Wed Sep 25 18:01:36 2024
 
 # Variables
 
@@ -41,7 +41,7 @@ GOPATH = C:\Users\C4erries\go
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_9992_YIIGUPDCZQVVGUHF
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_6496_RRLNGYRLPEJPKNLR
 # environment
 STUDIO_VM_OPTIONS = F:\WebStorm\jetbra\vmoptions\studio.vmoptions
 # environment
@@ -87,8 +87,6 @@ MFLAGS = -pqrR
 # default
 .SHELLFLAGS := -c
 # environment
-EFC_5204 = 1
-# environment
 COMMONPROGRAMW6432 = C:\Program Files\Common Files
 # automatic
 +D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
@@ -97,7 +95,7 @@ MAKEFILE_LIST := Makefile
 # automatic
 @F = $(notdir $@)
 # environment
-VSCODE_PID = 9992
+VSCODE_PID = 6496
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # environment
@@ -207,6 +205,8 @@ PROCESSOR_ARCHITECTURE = AMD64
 # environment
 PYCHARM COMMUNITY EDITION = C:\Program Files\JetBrains\PyCharm Community Edition 2022.3.3\bin;
 # environment
+EFC_9396 = 1
+# environment
 VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
 COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
@@ -243,7 +243,7 @@ PROCESSOR_IDENTIFIER = AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD
 
 # Directories
 
-# . (key c:/Users/C4erries/prj/Raptor, mtime 1727207147): 17 files, no impossibilities.
+# . (key c:/Users/C4erries/prj/Raptor, mtime 1727207654): 17 files, no impossibilities.
 
 # 17 files, no impossibilities in 1 directories.
 
@@ -317,6 +317,6 @@ test:
 # strcache performance: lookups = 39 / hit rate = 38%
 # hash-table stats:
 # Load=24/8192=0%, Rehash=0, Collisions=0/39=0%
-# Finished Make data base on Tue Sep 24 22:46:45 2024
+# Finished Make data base on Wed Sep 25 18:01:36 2024
 
  
